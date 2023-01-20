@@ -2,7 +2,7 @@
 
 name: CI
 
-const "author" =  Angelo
+const "author" =  Angelo;
 
 # Controls when the workflow will run
 on:
